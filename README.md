@@ -42,7 +42,7 @@ sliding window smooth:
 
 
 
-**twitter-xlm-roberta-base-sentiment-finetunned**
+**twitter-xlm-roberta-base-sentiment-finetunned**:
 
 
 |   | Recovered  | Deaths | Under medical supervision | Confirmed |In quarantine | In the hospital |
@@ -70,9 +70,16 @@ The negative sentiment percentages and counts generally showed an inverse relati
 **References**:
 
 [1] https://zenodo.org/records/4319813 
+
 [2] https://kandi.openweaver.com/python/dtandev/coronavirus 
+
 [3] https://arxiv.org/abs/2204.12928
+
 [4] https://arxiv.org/abs/2204.10185
+
 [5] https://blog.singularitynet.io/aigents-sentiment-detection-personal-and-social-relevant-news-be989d73b381
+
 [6] bardsai/twitter-sentiment-pl-base · Hugging Face
+
 [7] cardiffnlp/twitter-xlm-roberta-base-sentiment · Hugging Face 
+
