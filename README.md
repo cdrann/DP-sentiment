@@ -2,9 +2,9 @@
 
 
 In this research, the main idea was in following: 
-to analyze data from social media(e.g. Twitter) in Polish that would be related to the coronavirus 
-Compare results with statistics data for the: Deaths,Recovered,In_the_hospital,In_quarantine,Under_medical_supervision
-Make a conclusion
+- to analyze data from social media(e.g. Twitter) in Polish that would be related to the coronavirus 
+- Compare results with statistics data for the: Deaths,Recovered,In_the_hospital,In_quarantine,Under_medical_supervision
+- Make a conclusion
 
 For our study we decided to choose next models: 
 twitter_sentiment_pl_base[6]
@@ -23,29 +23,11 @@ Now a little bit about results obtained.
 
 twitter_sentiment_pl_base:
 
-
-
-Recovered
-Deaths
-Under medical supervision
-Confirmed
-In quarantine
-In the hospital
-neg %
--0.48
--0.50
-0.25
--0.49
-0.002
--0.21
-neg count
--0.62
--0.74
-0.46
--0.73
--0.36
--0.58
-
+| -  | Recovered  | Deaths |
+|:------------- |:---------------:| -------------:|
+| Row 1         | Cell 2          | Cell 3        |
+| Row 2         | Cell 5          | Cell 6        |
+| Row 3         | Cell 8          | Cell 9        |
 
 sliding window smooth:
 
