@@ -23,11 +23,10 @@ Now a little bit about results obtained.
 
 twitter_sentiment_pl_base:
 
-| -  | Recovered  | Deaths |
-|:------------- |:---------------:| -------------:|
-| Row 1         | Cell 2          | Cell 3        |
-| Row 2         | Cell 5          | Cell 6        |
-| Row 3         | Cell 8          | Cell 9        |
+| -  | Recovered  | Deaths | Under medical supervision | Confirmed |In quarantine | In the hospital |
+|:------------- |:---------------:| -------------:| :---------------: | :---------------: | :---------------: | :---------------: |
+|neg %         | -0.48         | -0.50        | 0.25 | -0.49 | 0.002 | -0.21 |
+| neg count        | -0.62          | -0.74        | 0.46 | -0.73 | -0.36 | -0.58 |
 
 sliding window smooth:
 
