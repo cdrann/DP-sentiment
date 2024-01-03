@@ -7,6 +7,7 @@ In this research, the main *idea* was in following:
 - Make a conclusion
 
 For our study we decided to choose next *models*: 
+
 **twitter_sentiment_pl_base**[6]
 Model is based on HerBERT (Polish version of BERT) since it receives state-of-the-art results in the area of text classification. 
 It was trained on the translated version of TweetEval by Barbieri et al., 2020 for 10 epochs on single RTX3090 gpu
